@@ -2,6 +2,7 @@
 
 ## Meu nome é Bárbara Jovem
 🚀Desenvolvedora FullStack com foco em Web, FrontEnd e Java. 
+
 📚Aqui você vai encontrar projetos pessoais, desafios que fiz em cursos e exercícios de lógica.
 
 ### Evolução:
